@@ -23,7 +23,7 @@
   border-radius: 15%;
 }
 .colorchange {
-  animation: colorchangeabhis 1s infinite;
+  animation: colorchangeabhis 5s infinite;
   text-shadow: 13px 13px 3px black;
 }
 @keyframes colorchangeabhis {
@@ -48,7 +48,7 @@
 }
 .navitems a {
   color: white;
-  padding: 15px;
+  padding: 25px;
   /* border: 1px solid salmon; */
   font-size: xx-large;
   text-decoration: none;
@@ -94,8 +94,8 @@
   /* border: 2px solid red; */
   font-size: 50px;
   padding: 15px;
-  background-color: black;
-  color: white;
+  background-color: grey;
+  color: yellow;
   font-family: cursive;
   text-align: center;
 }

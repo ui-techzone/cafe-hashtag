@@ -1,0 +1,159 @@
+ * {
+     margin: 0;
+     padding: 0;
+     width: 100%;
+     height: 100vh;
+     background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("../img/aaa.jpg") ;
+     background-size: cover;
+     background-repeat: no-repeat;
+     overflow-x: hidden;
+     overflow-y: hidden;
+
+
+     }
+
+
+.upi{
+ 
+  position: absolute;
+  width: 300px;
+  height: 60vh;
+  border:1px solid #ccc;
+  padding:10px 15px;
+  font-size: 5px;
+  left: 680px;
+  top: 150px;
+  background-color: black;
+  
+}
+
+.order h1{
+
+     border: 10px solid white ;
+     font-family: 'Anton', sans-serif;
+     font-family: 'Satisfy', cursive;
+
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 60px;
+    font-weight: 110px;
+    left: -80px;
+    top: -400px;
+    border:4px solid black;
+}
+
+
+.bk:hover{
+  background: #2ecc71;
+   box-shadow: 20px 9px 30px black;
+  border-radius: 20px;
+}
+
+.mbtn{
+      position: absolute;
+      height: 350px;
+      width: 430px;
+      top:  300px;
+      right: 1300px;
+       padding:10px 15px;
+       border:1px solid #ccc;
+}
+
+.img1{
+       position: absolute;
+      height: 150px;
+       width:  300px;
+      left:  1020px;
+       top: 150px ;
+      border: 10px solid black ;
+    }
+
+.btn{
+    font-family: 'Anton', sans-serif;
+     font-family: 'Satisfy', cursive;
+     font-size: 100px;
+    border: 4px solid white;
+    position: relative;
+    padding:12px;
+    margin-top: 5px;
+    padding:10px 60px;
+    background: transparent;
+    border: 0;
+   outline: black;
+    cursor: pointer;
+    color: white;
+    font-size: 22px;
+    font-weight: 50;
+    border-radius: 30px ;
+    text-decoration: none;
+    text-underline-position: none;
+    align-items: center;
+     top: -1100px;
+     left: 600px;
+  }
+  
+
+
+
+.btn:hover{
+  background:  #2d2d86;
+  border: 4px solid white;
+  text-align: center;
+  font-size: 20px larger;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 2%;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: black;
+}
+
+  
+
+
+ .btn2{
+    
+    font-family: 'Anton', sans-serif;
+     font-family: 'Satisfy', cursive;
+
+    position: relative;
+    padding:12px;
+    margin-top: 5px;
+    padding:10px 60px;
+    background: transparent;
+    outline: black;
+    cursor: pointer;
+    color: white;
+    font-size: 22px;
+    font-weight: 50;
+    border-radius: 30px ;
+    text-decoration: none;
+    text-underline-position: none;
+    align-items: center;
+    justify-content: space-between;
+    top: -1100px;
+    left: 820px;
+
+}
+
+
+.btn2:hover{
+  background:  #2d2d86;
+  border: 4px solid white;
+  text-align: center;
+  font-size: 20px larger;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 2%;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: black;
+}
+
